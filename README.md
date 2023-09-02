@@ -7,4 +7,4 @@ C++ Template for GTK App
 `sudo apt update && sudo apt install build-essential`  
 `sudo apt install libgtkmm-4.0-dev`  
 ## _To Avoid Issues Add Following Flags To Make Sure App Runs  
-[Commands Are Here](https://pastebin.com/2rcdYUjM)
+[Commands Are Here](https://pastebin.com/sfyGS7pw)
